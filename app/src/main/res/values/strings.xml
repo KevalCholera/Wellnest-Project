@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wellnest Project</string>
+    <string name="no_companies_added_yet">No companies added yet</string>
+    <string name="no_students_added_yet">No students added yet</string>
+    <string name="add_company">Add Company</string>
+    <string name="save">Save</string>
+    <string name="company_name">Company Name</string>
+    <string name="back">Back</string>
+    <string name="add_student">Add Student</string>
+    <string name="student_name">Student Name</string>
+</resources>
